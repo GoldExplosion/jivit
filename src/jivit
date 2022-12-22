@@ -1,0 +1,2 @@
+import libjivit
+libjivit.main()
